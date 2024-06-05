@@ -1,0 +1,122 @@
+NOOOOOOOOOOOOOOOOOOOOOO0O0o0o0o0OOOO BORRARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 cupcakes">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/2.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Cupcake 2</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 cupcakes">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/3.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="far fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Cupcake 3</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 pasteles">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/4.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Pastel 1</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 pasteles">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/5.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Pastel 2</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 pasteles">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/6.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="far fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Pastel 3</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 pays">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/7.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Pays 1</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3 p-2 pays">
+  <div class="popular-img position-relative">
+    <img src="img/Lo mas popular/8.png" class="w-100">
+  </div>
+  <div class="text-center">
+    <div class="rating mt-3">
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="fas fa-star"></i></span>
+      <span class="text-primary"><i class="far fa-star"></i></span>
+    </div>
+    <p class="text-capitalize mt-3 mb-1">Pay2</p>
+    <span class="fw-bold d-block">$ 120</span>
+    <i class="fa fa-shopping-cart add-cart"></i>
+  </div>
+</div>

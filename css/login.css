@@ -1,0 +1,64 @@
+body{
+	background-color:#f5d1dd;
+	
+
+}
+	.principal{
+		color:#f5d1dd;
+		margin:0 auto;
+		margin-top:15%;
+		padding:0;
+	}
+	.titulo-login{
+		margin-top:30px;
+	}
+
+	.modal-content{
+		background-color:#fbadc7;
+		opacity:.90;
+		padding:0 20px;
+		box-shadow:0px 0px 5px #848484;
+	}
+	.img-usuario{
+		margin-top:40px;
+		margin-bottom:20px;
+	}
+	.img-usuario img{
+		width:120px;
+		height:120px;
+		
+		border-radius:50%;
+	}
+	.form-group input{
+		padding-left:50px;
+		height:45px;
+		font-size:1.2em;
+		border:0;
+		border-radius:5px;
+	}
+
+.form-group{
+	color:gray;
+}
+.form-group img{
+
+	width:20px;
+	position:absolute;
+	margin-top:10px;
+	left:58px;
+}
+
+
+
+	button{
+		width:60%;
+		margin:5px 0 25px;
+	}			
+	.recordar-contraseña{
+		padding:5px 0;
+	}
+	.recordar-contraseña a{
+		color:black;
+		text-decoration:none;
+	}
+	
